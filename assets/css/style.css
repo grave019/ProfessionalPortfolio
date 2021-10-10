@@ -1,9 +1,21 @@
 
-nav li {
+nav {
     background-color: rgb(73, 73, 221);
 }
 
 body {
     margin: 0%;
     background-color: lightblue;
+}
+
+.logo {
+    background-image: url(/assets/images/FullLogo.png);
+    background-size: cover;
+    width: 160px;
+    height: 160px;
+    border: 2px solid;
+    color: pink;
+    resize: both;
+    overflow: scroll;
+  }
 }
