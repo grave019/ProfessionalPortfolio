@@ -4,33 +4,31 @@ html, body
 }
 
 nav {
-    background-color: rgb(80, 80, 223);
+    background-color: rgb(108, 108, 243);
 }
 header, footer
 {
     font-family: Raleway;
     margin: 0 auto;
-	padding: 2em 1.5em;
+	padding: 2em 1em;
 	text-align: center;
-    background: rgb(177, 170, 170);
+    background: rgb(179, 174, 174);
 }
 div.container
 {
     font-family: Raleway;
     margin: 0 auto;
-	padding: 10em 3em;
-	text-align: center;
+	  padding: 4em 1em;
+	  text-align: center;
 }
 div.container a
 {
     color: #FFF;
     text-decoration: none;
-    font: 20px Raleway;
+    font: 26px;
     margin: 0px 10px;
     padding: 10px 10px;
     position:sticky
-    z-index: 0;
-    cursor: pointer;
 }
 
 body {
@@ -43,12 +41,15 @@ body {
     height: auto;
   }
 
-.brent-image {
-
-} 
+.responsive-2 {
+  justify-content: center;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
 
   p {
-    color:rgb(53, 51, 51);
+    color:rgb(26, 24, 24);
     animation-duration: 3s;
     animation-name: slidein;
   }
