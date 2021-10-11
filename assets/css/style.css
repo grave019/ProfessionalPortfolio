@@ -10,7 +10,7 @@ header, footer
 {
     font-family: Raleway;
     margin: 0 auto;
-	  padding: 2em 1em;
+	  padding: 1em 1em;
 	  text-align: center;
     background: rgb(179, 174, 174);
 }
@@ -18,16 +18,16 @@ div.container
 {
     font-family: Raleway;
     margin: 0 auto;
-	  padding: 1.5em 1.5em;
+	  padding: 1.25em 1.25em;
 	  text-align: center;
 }
 div.container a
 {
     color: #FFF;
     text-decoration: none;
-    font: 18px;
+    font: 14px;
     margin: 5px 5px;
-    padding: 7px 7px;
+    padding: 5px 5px;
     position:sticky
 }
 
@@ -36,26 +36,36 @@ body {
     background-color: rgb(210, 232, 240);
 }
 
+section {
+  background-color: rgb(108, 108, 243);
+}
+
 .responsive {
   position: sticky;
     width: 100%;
     height: auto;
+    animation-duration: 3s;
+    animation-name: slidein ;
   }
 
 .responsive-2 {
     width: 100%;
-    max-width: 300px;
+    max-width: 400px;
     height: auto;
+    animation-duration: 5s;
+    animation-name: slidein ;
   }
   .responsive-3 {
       width: 100%;
       max-width: 400px;
       height: auto;
+      animation-duration: 9s;
+      animation-name: slidein ;
     }
 
   p {
     color:rgb(26, 24, 24);
-    animation-duration: 3s;
+    animation-duration: 7s;
     animation-name: slidein;
   }
   
