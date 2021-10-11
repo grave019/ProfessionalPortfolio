@@ -1,0 +1,24 @@
+html, body
+{
+    margin: 0px;
+}
+h1 {
+  color: rgb(105, 98, 98);
+  text-align: center;
+}
+
+section
+{
+    font-family: Raleway;
+    margin: 0 auto;
+	  padding: 1em 1em;
+	  text-align: center;
+    background: rgb(179, 174, 174);
+}
+.responsive {
+    position: sticky;
+      width: 100%;
+      height: auto;
+      animation-duration: 3s;
+      animation-name: slidein ;
+    }

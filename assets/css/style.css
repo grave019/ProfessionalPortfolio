@@ -3,7 +3,8 @@ html, body
     margin: 0px;
 }
 h1 {
-  color: rgb(107, 100, 100);
+  color: rgb(105, 98, 98);
+  text-align: center;
 }
 
 nav {
@@ -17,7 +18,7 @@ header, footer
 	  text-align: center;
     background: rgb(179, 174, 174);
 }
-div .container
+div.container
 {
     font-family: Raleway;
     margin: 0 auto;
@@ -36,11 +37,11 @@ div.container a
 
 body {
     margin: 0%;
-    background-color: rgb(210, 232, 240);
+    background-color: rgb(164, 208, 224);
 }
 
 section {
-  background-color: rgb(108, 108, 243);
+  background-color: rgb(90, 90, 226);
 }
 
 .responsive {
@@ -60,15 +61,15 @@ section {
   }
   .responsive-3 {
       width: 100%;
-      max-width: 400px;
+      max-width: 425px;
       height: auto;
-      animation-duration: 9s;
+      animation-duration: 7s;
       animation-name: slidein ;
     }
 
   p {
     color:rgb(26, 24, 24);
-    animation-duration: 7s;
+    animation-duration: 6s;
     animation-name: slidein;
   }
   
