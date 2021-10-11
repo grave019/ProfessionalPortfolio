@@ -10,24 +10,24 @@ header, footer
 {
     font-family: Raleway;
     margin: 0 auto;
-	padding: 2em 1em;
-	text-align: center;
+	  padding: 2em 1em;
+	  text-align: center;
     background: rgb(179, 174, 174);
 }
 div.container
 {
     font-family: Raleway;
     margin: 0 auto;
-	  padding: 4em 1em;
+	  padding: 1.5em 1.5em;
 	  text-align: center;
 }
 div.container a
 {
     color: #FFF;
     text-decoration: none;
-    font: 26px;
-    margin: 0px 10px;
-    padding: 10px 10px;
+    font: 18px;
+    margin: 5px 5px;
+    padding: 7px 7px;
     position:sticky
 }
 
@@ -37,16 +37,21 @@ body {
 }
 
 .responsive {
+  position: sticky;
     width: 100%;
     height: auto;
   }
 
 .responsive-2 {
-  justify-content: center;
     width: 100%;
     max-width: 300px;
     height: auto;
   }
+  .responsive-3 {
+      width: 100%;
+      max-width: 400px;
+      height: auto;
+    }
 
   p {
     color:rgb(26, 24, 24);
