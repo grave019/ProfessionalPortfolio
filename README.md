@@ -22,7 +22,7 @@ I designed this portfolio to introduce myself to the greater web development com
 
 ### 4. Follow the link below to visit the live Web Page
 
-![Brent Graves Portfolio Page](https://grave019.github.io/ProfessionalPortfolio/)
+https://grave019.github.io/ProfessionalPortfolio/
 
 ### 5. Acknowledgements
 
