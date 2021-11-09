@@ -6,13 +6,11 @@
 
 ## 2. Web Development Tools
 
-## 3. Images of the Live Web Page
+## 3. Link to the Web Page
 
-## 4. Link to the Web Page
+## 4. Acknowledgements
 
-## 5. Acknowledgements
-
-## 6. License
+## 5. License
 
 ### 1. Introduction
 
@@ -22,21 +20,9 @@ I designed this portfolio to introduce myself to the greater web development com
    
    To design this portfolio I used mainly CSS with Mobile First in mind. In the coming weeks I will be coming up with a redesign of the page to better showcase my skills. Thank you for taking the time view my page.
 
-### 3. Images of the live Site
-
-![image one mobile](assets/images/1.png)
-
-![image two mobile](assets/images/2.png)
-
-![image three mobile](assets/images/3.png)
-
-![image four mobile](assets/images/4.png)
-
-![image five mobile](assets/images/5.png)
-
 ### 4. Follow the link below to visit the live Web Page
 
-https://grave019.github.io/ProfessionalPortfolio/
+![Brent Graves Portfolio Page](https://grave019.github.io/ProfessionalPortfolio/)
 
 ### 5. Acknowledgements
 
