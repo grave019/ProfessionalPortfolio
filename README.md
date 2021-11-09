@@ -16,7 +16,7 @@ I designed this portfolio to introduce myself to the greater web development com
 
 ### 2. Web Development Tools
    
-   To design this portfolio I used mainly CSS with flexboxes and html. As I become more accomplished this portfolio will evolve in the coming weeks and years to better reflect my skills and development. Thank you for taking the time view my page.
+   To design this portfolio I used mainly CSS with Mobile First in mind. In the coming weeks I will be coming up with a redesign of the page to better showcase my skills. Thank you for taking the time view my page.
 
 ### 3. Images of the live Site
 
